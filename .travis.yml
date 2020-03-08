@@ -3,9 +3,10 @@ node_js:
   - "stable"
 cache:
   directories:
-    - node_modules
-script:
+    - ./notagame/node_modules
+before_install:
   - cd notagame
+script:
   - npm run build
 deploy:
   provider: pages
