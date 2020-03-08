@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://tiefpunkt.github.io/notagame/precache-manifest.fe33c9fe1a109d45ba012b5882ceffe6.js"
+  "https://tiefpunkt.github.io/notagame/precache-manifest.8e7d5f3cb1b2c2ac051bb03825530a18.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "662360d3993f76553a560b9631758bfc",
+    "revision": "1f6afe8098b51b1cc35184becad99cfa",
     "url": "https://tiefpunkt.github.io/notagame/index.html"
   },
   {
