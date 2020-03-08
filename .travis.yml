@@ -7,6 +7,7 @@ cache:
 before_install:
   - cd notagame
 script:
+  - export PUBLIC_URL=$(echo $TRAVIS_REPO_SLUG | awk -F'/' '{OFS=""; print "https://",$1,".github.io/",$2}')
   - npm run build
 deploy:
   provider: pages
