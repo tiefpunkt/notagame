@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.03a11b62.chunk.css",
-    "main.js": "/static/js/main.841a770f.chunk.js",
-    "main.js.map": "/static/js/main.841a770f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1975ac44.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1975ac44.js.map",
-    "static/js/2.1f791158.chunk.js": "/static/js/2.1f791158.chunk.js",
-    "static/js/2.1f791158.chunk.js.map": "/static/js/2.1f791158.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e46c69af09196bc3dceeb5bade7c5d5f.js": "/precache-manifest.e46c69af09196bc3dceeb5bade7c5d5f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.03a11b62.chunk.css.map": "/static/css/main.03a11b62.chunk.css.map",
-    "static/js/2.1f791158.chunk.js.LICENSE.txt": "/static/js/2.1f791158.chunk.js.LICENSE.txt",
-    "static/media/LogoNotAGame.svg": "/static/media/LogoNotAGame.41acf81e.svg"
+    "main.css": "https://tiefpunkt.github.io/notagame/static/css/main.03a11b62.chunk.css",
+    "main.js": "https://tiefpunkt.github.io/notagame/static/js/main.71363835.chunk.js",
+    "main.js.map": "https://tiefpunkt.github.io/notagame/static/js/main.71363835.chunk.js.map",
+    "runtime-main.js": "https://tiefpunkt.github.io/notagame/static/js/runtime-main.63fbc742.js",
+    "runtime-main.js.map": "https://tiefpunkt.github.io/notagame/static/js/runtime-main.63fbc742.js.map",
+    "static/js/2.1f791158.chunk.js": "https://tiefpunkt.github.io/notagame/static/js/2.1f791158.chunk.js",
+    "static/js/2.1f791158.chunk.js.map": "https://tiefpunkt.github.io/notagame/static/js/2.1f791158.chunk.js.map",
+    "index.html": "https://tiefpunkt.github.io/notagame/index.html",
+    "precache-manifest.fe33c9fe1a109d45ba012b5882ceffe6.js": "https://tiefpunkt.github.io/notagame/precache-manifest.fe33c9fe1a109d45ba012b5882ceffe6.js",
+    "service-worker.js": "https://tiefpunkt.github.io/notagame/service-worker.js",
+    "static/css/main.03a11b62.chunk.css.map": "https://tiefpunkt.github.io/notagame/static/css/main.03a11b62.chunk.css.map",
+    "static/js/2.1f791158.chunk.js.LICENSE.txt": "https://tiefpunkt.github.io/notagame/static/js/2.1f791158.chunk.js.LICENSE.txt",
+    "static/media/LogoNotAGame.svg": "https://tiefpunkt.github.io/notagame/static/media/LogoNotAGame.41acf81e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1975ac44.js",
+    "static/js/runtime-main.63fbc742.js",
     "static/js/2.1f791158.chunk.js",
     "static/css/main.03a11b62.chunk.css",
-    "static/js/main.841a770f.chunk.js"
+    "static/js/main.71363835.chunk.js"
   ]
 }
